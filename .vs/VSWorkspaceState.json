@@ -1,0 +1,19 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Auth",
+    "\\public",
+    "\\public\\css",
+    "\\resources",
+    "\\resources\\sass",
+    "\\resources\\views",
+    "\\resources\\views\\auth",
+    "\\resources\\views\\layouts",
+    "\\routes"
+  ],
+  "SelectedNode": "\\resources\\views\\translate.blade.php",
+  "PreviewInSolutionExplorer": false
+}
